@@ -3,9 +3,9 @@ wget -O clash.gz https://github.com/Dreamacro/clash/releases/download/v1.11.4/cl
 gunzip clash.gz
 wget -O lite.gz https://github.com/alanbobs999/LiteSpeedTest/releases/download/v0.11.2m/lite-linux-amd64-v0.11.2m.gz
 gunzip lite.gz
-wget -O clash_config.yml https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/utils/speedtest/clash_config.yml
-wget -O proxychains.conf https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/utils/speedtest/proxychains.conf
-wget -O lite_config.json https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/utils/speedtest/lite_config.json
+wget -O clash_config.yml https://raw.githubusercontent.com/vveg26/GetNode/master/utils/speedtest/clash_config.yml
+wget -O proxychains.conf https://raw.githubusercontent.com/vveg26/GetNode/master/utils/speedtest/proxychains.conf
+wget -O lite_config.json https://raw.githubusercontent.com/vveg26/GetNode/master/utils/speedtest/lite_config.json
 #初始化 Clash
 chmod +x ./clash && ./clash &
 #安装并配置 proxychains
