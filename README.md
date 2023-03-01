@@ -181,14 +181,14 @@ Clash
 </details>
 
 ### 所有节点
-合并节点总数: `2837`
+合并节点总数: `2915`
 [节点链接](https://raw.githubusercontent.com/vveg26/GetNode/master/sub/sub_merge.txt)
 
 ### 节点来源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `120`
 - [LITTLESITE/BPXD](https://github.com/LITTLESITE/BPXD), 节点数量: `0`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `156`
-- [freefq/free](https://github.com/freefq/free), 节点数量: `36`
+- [freefq/free](https://github.com/freefq/free), 节点数量: `14`
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), 节点数量: `90`
 - [vpei/Free-Node-Merge](https://github.com/vpei/Free-Node-Merge), 节点数量: `0`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), 节点数量: `21`
@@ -200,11 +200,11 @@ Clash
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `36`
 - [wrfree/free](https://github.com/wrfree/free), 节点数量: `51`
 - [changfengoss](https://github.com/ronghuaxueleng/get_v2), 节点数量: `236`
-- [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `284`
+- [anaer/Sub](https://github.com/anaer/Sub), 节点数量: `384`
 - [xrayfree/free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash), 节点数量: `88`
 - [mhmhone/shadowrocket-free-subscribe](https://github.com/mhmhone/shadowrocket-free-subscribe), 节点数量: `0`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), 节点数量: `15`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `0`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `13`
 - [kxswa/k](https://github.com/kxswa/k), 节点数量: `0`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), 节点数量: `50`
 - [Rokate/Proxy-Sub](https://github.com/Rokate/Proxy-Sub), 节点数量: `480`
